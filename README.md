@@ -1,1 +1,6 @@
 # The Hedge that Flipped: Safe Asset Performance across COVID, the Rate Hike Cycle, and Trade Volatility 
+
+Which safe assets protect investors when equities fall? Does that answer depend on what is driving the crisis? Using daily data from 2019 to 2026, this study evaluates the hedging performance of the US 10-year Treasury, Gold, the Swiss Franc (CHF), the Japanese Yen (JPY), and the Broad USD Index across three stress environments: the COVID market shock, the Federal Reserve rate hike cycle, and the ongoing trade volatility period. 
+
+Results of this study reveal that hedging performance is deeply conditional on the nature of the crisis. Treasuries were a reliable hedge during COVID but failed entirely during the rate hike cycle, as rising yields caused bonds and equities to fall together. Gold delivered strong cumulative returns across regimes but provided no reliable protection on acute stress days. The broad USD Index was the only asset to hedge consistently across multiple stress environments, until trade volatility, when it broke down as the United States became the source of the shock itself. These findings suggest that no single asset is a universal hedge. Which asset protects, and which fails, depends on the economic conditions driving it. 
+
